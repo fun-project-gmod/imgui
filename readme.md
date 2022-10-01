@@ -4,7 +4,7 @@ Small 2D UI Library
 
 # Requirements
 
-grequre ???
+grequire ???
 
 # Small Documentation
 
